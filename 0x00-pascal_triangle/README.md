@@ -37,3 +37,4 @@ Repo:
     GitHub repository: alx-interview
     Directory: 0x00-pascal_triangle
     File: 0-pascal_triangle.py
+    This is just a test. I am trying to test my new keyboard. IT actually feels so good. BUt it is very noisy
